@@ -5,6 +5,12 @@ REM # Script to change Wallpaper
 REM # Written by BLiebowitz on 10/12/2017
 REM #
 REM ####################################
+
+REM #############################################3###
+REM #
+REM # Script modified by InertialObserver in Oct 2019
+REM #
+REM ##################################################
  
 dim shell 
 dim user
