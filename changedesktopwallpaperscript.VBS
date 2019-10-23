@@ -13,7 +13,7 @@ myShell.RegWrite "HKCU\Control Panel\Desktop\Wallpaper\Theme1", wallpaper
 
 myShell.Run "%windowsDir%\System32\RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters",1, True
 
-REM ## NOTES ## I'm moving the image file back to its original location. Next step is to work on the GetSpecialFolder method, see if that's the key.
+REM ## NOTES ## I've moved the image file back to its original location. Next step is to work on the GetSpecialFolder method, see if that's the key.
 
 REM ## MORE NOTES ##I had changed line 14 before I started using version control. Previously "SystemRoot" was "windowsDir" and before I made that change I kept getting an error.
 
